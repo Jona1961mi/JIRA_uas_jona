@@ -8,3 +8,5 @@ def area_rect(base,altura):
 resultado=area_rect(2,3)
 print("funcion de rectangulo")
 print(resultado)
+
+print("git modificacion")
