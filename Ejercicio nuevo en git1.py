@@ -9,5 +9,8 @@ def resta(num1,num2):
 
 a=float(input("ingrese el primer valor :"))
 b=float(input("ingrese el segundo valor :"))
-suma(a,b)
-resta(a,b) 
+
+imp_suma=suma(a,b)
+print(imp_suma)
+imp_resta=resta(a,b)
+print(imp_resta) 
